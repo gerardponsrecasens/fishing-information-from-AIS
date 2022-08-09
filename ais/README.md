@@ -1,4 +1,4 @@
-Different preprocessin steps with AIS data
+Different preprocessing steps with AIS data
 
   
 
