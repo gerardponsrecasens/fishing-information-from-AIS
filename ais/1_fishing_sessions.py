@@ -4,7 +4,7 @@ import numpy as np
 from geopy import distance
 
 
-cross_hard = True
+cross_hard = True #Remove rows were vessels are at the harbour.
 data = pd.read_csv(r'./ais.csv')
 
 

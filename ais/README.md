@@ -1,4 +1,4 @@
-Different preprocessing steps with AIS data
+These folder contains the scripts necessary to preprocess AIS reports and convert them into tagged locations, according to the heuristic rules decided by the user. The file can be run with different parameters to obtain the different rule configurations. 
 
   
 
