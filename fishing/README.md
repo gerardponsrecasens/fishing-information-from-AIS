@@ -14,3 +14,5 @@ Instructions of how to preprocess the fishing data. ***This part should be done 
 	Input: environmental.csv | lines.csv | moving_threshold.csv | fishing_results.csv
 
 	Output: train.csv | test.csv
+
+![Figure7](https://user-images.githubusercontent.com/95172600/231098220-a26c6097-b7f7-4e6b-bb62-165f40a30d4d.jpg)
