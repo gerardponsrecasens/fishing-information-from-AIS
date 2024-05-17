@@ -47,3 +47,7 @@ Explanation of how to process the environmental variables:
 	Input: weekly .csv files | lag .csv file
 
 	Output: final environmental .csv file
+
+**CORRELATION ANALYSIS**
+The results of the correlation analysis for the temporally dependent environmental variables can be seen in the figure below. The only correlation values that are significantly higher that the 0 months lag is seen in chl-a, with the highest peak ocurring in the fifteenth month.
+![all_correlations](https://github.com/gerardponsrecasens/fishing-information-from-AIS/assets/95172600/6fa68677-a705-4787-bf54-64d5e84b21dd)
