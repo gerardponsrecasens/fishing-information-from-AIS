@@ -1,5 +1,5 @@
 
-Explanation of how to process the environmental variables:
+This directory containts the explanation on how to process the environmental variables:
 
   
 

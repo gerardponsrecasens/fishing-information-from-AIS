@@ -1,0 +1,1 @@
+This directory contains the scripts used to generate the models. The file *modeling.ipynb* contains a notebook which allows to generate the models trained with different datasets and augmentation techniques. Finally, *GAM.R* contains the scripts necessary to generate the GAMM models, which are not included in the first script due to being in *R*.

@@ -1,7 +1,7 @@
-Instructions of how to preprocess the fishing data. ***This part should be done after running the code in the AIS folder***.
+Instructions of how to preprocess the fishing data. ***This scripts should be run after executing the code in the AIS folder***.
 
 - **0-CLEAN**: Given all the fishing reports by the company, we obtain the quantities fishedn by each boat in a day by executing the code 0_clean_reports.py Moreover if the locations contains missing values, they are imputed aswell.
-*¡¡¡Some reports contain typos in the location (e.g. 5º57' when it should be 53º57'), which should be solved manually by looking the last reported location for the same boat!!!*
+*Some reports contain typos in the location (e.g. 5º57' when it should be 53º57'), which should be solved manually by looking the last reported location for the same boat*
 
 	Input: fishing reports .csv file| fishing_locations .csv file
 
